@@ -1,4 +1,16 @@
 .trans-bg{
-    background-color: #003f4a;
+    background-color:#258ADB;;
     background-image: url("https://www.transparenttextures.com/patterns/psychedelic.png");
+}
+.ltgry{
+    color:#1D5C8F;
+}
+.ltblu{
+    background-color: #258ADB;
+}
+.drkblu{
+    color:#DB413B;
+}
+.bg-ltgry{
+    background-color:#1D5C8F;
 }
