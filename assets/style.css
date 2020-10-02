@@ -14,3 +14,10 @@
 .bg-ltgry{
     background-color:#1D5C8F;
 }
+.spc{
+    padding:.5rem;
+}
+input{
+    width: 100%;
+    margin: 1rem 0;
+}
